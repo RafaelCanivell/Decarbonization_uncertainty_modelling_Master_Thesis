@@ -1,6 +1,6 @@
 # Decarbonization Trajectory Modeling under Contextual and Medical-Operational Uncertainty
 
-> **Master's Thesis — Universidad Nacional de Educacion a Distancia · 2025**  
+> **Master's Thesis — Universidad Nacional de Educacion a Distancia · December 2025**  
 > *Author: Rafael Canivell ·
 
 ---
@@ -82,8 +82,8 @@ and Medical-Operational Uncertainty. Master's Thesis, [UNED].
 
 # Modelización de Trayectorias de Descarbonización bajo Incertidumbre Contextual y Médico-Operacional
 
-> **Trabajo de Fin de Máster (TFM) — [Universidad] · [Año]**  
-> *Autor/a: [Tu Nombre] · Director/a: [Nombre del Director/a]*
+> **Trabajo de Fin de Máster (TFM) — Universidad Espanola de Eduacion a Distancia-UNED · Diciembre 2025**  
+> *Autor: Rafael Canivell*
 
 ---
 
